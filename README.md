@@ -1,4 +1,4 @@
-# MSX Game Restoration Project: Korea 1980s
+# MSX Game Restoration Project in Korea 1980s
 This project is dedicated to restoring, preserving, and sharing classic MSX games from Korea in the 1980s. The goal is to bring back the nostalgic experience of early computing and gaming culture in Korea, providing an accessible archive of MSX BASIC code and related resources.
 
 ## Features
@@ -11,3 +11,8 @@ This project is dedicated to restoring, preserving, and sharing classic MSX game
 Preserve the legacy of Korean MSX games.
 Provide a resource for enthusiasts and researchers interested in 1980s Korean gaming history.
 Enable easy access to classic games for play and study.
+
+## Projects
+
+### PG1984.bas 
+컴퓨터학습 1984년 9월호 <명랑운동회> | [조작] 1p(Left) 스페이스 - 2p(Right) 좌측 방향키 사용.
